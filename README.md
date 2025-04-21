@@ -20,7 +20,7 @@ Mini web aplikacija koja nasumično odabire državu za tvoje sljedeće putovanje
 Otvori `index.html` u pregledniku – sve radi lokalno!
 
 ## ✨ Primjer
-![screenshot](screenshot.png)
-![screenshot](screenshot1.png)
+![screenshot](screenshots/screenshot.png)
+![screenshot](screenshots/screenshot1.png)
 
 ## 🌐 Made in 2025 with good travel vibes ✈️
